@@ -1,0 +1,8 @@
+{
+    "go.toolsEnvVars": {
+        "GOOS": "linux",
+        "GOARCH": "arm",
+        "GOROOT": "C:\\Users\\j845014b\\AppData\\Local\\tinygo\\goroot-2f8e60427e8a44b256c627c545dbc95d107b9b41503b8672af5a97f7ab4c8574",
+        "GOFLAGS": "-tags=avr,baremetal,linux,arm,atmega328p,atmega,avr5,arduino,tinygo,math_big_pure_go,gc.conservative,scheduler.none,serial.uart"
+    }
+}
